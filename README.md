@@ -35,12 +35,13 @@ This is a simple To-Do List application built with Laravel. It was my first Lara
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Dashboard](<img width="1914" height="986" alt="Screenshot 2025-08-13 033806" src="https://github.com/user-attachments/assets/859b0765-2449-4de7-a9fd-b4eab58c3c76" />
-)
+
+<img width="1914" height="986" alt="Screenshot 2025-08-13 033806" src="https://github.com/user-attachments/assets/859b0765-2449-4de7-a9fd-b4eab58c3c76" />
+
 
 ### Add Task Page
-![Add Task](<img width="1917" height="982" alt="Screenshot 2025-08-13 033731" src="https://github.com/user-attachments/assets/9cf22d71-5315-47ab-9c03-a8907f0993bb" />
-)
+<img width="1917" height="982" alt="Screenshot 2025-08-13 033731" src="https://github.com/user-attachments/assets/9cf22d71-5315-47ab-9c03-a8907f0993bb" />
+
 
 *Images above show the dashboard overview and the task creation page.*
 
